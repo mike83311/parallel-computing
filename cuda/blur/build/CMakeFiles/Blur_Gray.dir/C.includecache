@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/60575005h/cuda/blur/Blur_Gray.c
+opencv/cv.h
+/home/60575005h/cuda/blur/opencv/cv.h
+opencv/highgui.h
+/home/60575005h/cuda/blur/opencv/highgui.h
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+time.h
+-
+

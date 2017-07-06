@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/cuda1.dir/cuda1_generated_cuda1.cu.o  -o cuda1 -rdynamic /usr/local/cuda/lib64/libcudart_static.a -lpthread -ldl -lrt 

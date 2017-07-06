@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/vecDOT3.dir/vecDOT3_generated_vecDOT3.cu.o  -o vecDOT3 -rdynamic /usr/local/cuda/lib64/libcudart_static.a -lpthread -ldl -lrt 

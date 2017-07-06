@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/matrix.dir/matrix_generated_matrix.cu.o  -o matrix -rdynamic /usr/local/cuda/lib64/libcudart_static.a -lpthread -ldl -lrt 
